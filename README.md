@@ -62,3 +62,19 @@ d)	The last page will contain a contact form for users to submit suggestions or 
 Congratulations! You have successfully installed and deployed the Stock Price Prediction Website. You can now explore the various functionalities and features provided by the web application.
 
 Note: Make sure to update the model weights periodically to incorporate the latest training data and improve prediction accuracy.
+
+
+WebApp Screenshots:
+
+WebApp Page 01: Main Prediction Page
+
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/bb27346a-191f-4f46-ba4a-c4b13600b8fd)
+
+
+
+ 
+
+
+
+
