@@ -64,9 +64,9 @@ Congratulations! You have successfully installed and deployed the Stock Price Pr
 Note: Make sure to update the model weights periodically to incorporate the latest training data and improve prediction accuracy.
 
 
-WebApp Screenshots:
+# WebApp Screenshots:
 
-WebApp Page 01: Main Prediction Page
+## WebApp Page 01: Main Prediction Page
 
 
 ![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/bb27346a-191f-4f46-ba4a-c4b13600b8fd)
@@ -82,7 +82,7 @@ WebApp Page 01: Main Prediction Page
 
 
 
-WebApp Page 02: Overview of Selected Stock Symbol
+## WebApp Page 02: Overview of Selected Stock Symbol
 
 ![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/ff49248c-b5cf-4cd0-a67d-45afc7bebf39)
 
@@ -94,7 +94,7 @@ WebApp Page 02: Overview of Selected Stock Symbol
 
  
 
-WebApp Page 03: Resource Hub
+## WebApp Page 03: Resource Hub
 
 ![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/f9df7cdb-7c67-49e0-acfb-d5fc255519f8)
 
@@ -105,7 +105,7 @@ WebApp Page 03: Resource Hub
 ![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/822c2683-bfc8-42bf-bea9-605ca02e9c6e)
 
 
-WebApp Page 04: Contact Page
+## WebApp Page 04: Contact Page
 
 ![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/1311ba7d-2788-4573-b551-779e89dddb95)
 
