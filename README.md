@@ -72,8 +72,44 @@ WebApp Page 01: Main Prediction Page
 ![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/bb27346a-191f-4f46-ba4a-c4b13600b8fd)
 
 
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/9095bfda-a642-4843-b3d7-ec606f2ab677)
+
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/baacfef2-97c7-4553-b3e2-dfb3474e0678)
+
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/4618cd3c-c856-4865-af4b-5699c0cbef2a)
+
+
+
+WebApp Page 02: Overview of Selected Stock Symbol
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/ff49248c-b5cf-4cd0-a67d-45afc7bebf39)
+
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/0dc93a71-e9de-4ee2-b32c-300940a71e23)
+
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/73e24be9-fa3d-4383-9bf2-4fa35edcde96)
 
  
+
+WebApp Page 03: Resource Hub
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/f9df7cdb-7c67-49e0-acfb-d5fc255519f8)
+
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/71dc2cdd-becf-45e3-b3dd-f49c0f979e43)
+
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/822c2683-bfc8-42bf-bea9-605ca02e9c6e)
+
+
+WebApp Page 04: Contact Page
+
+![image](https://github.com/SuhasiGadge/Stock-Price-Prediction-Using-LSTM-and-Sliding-Window/assets/97603532/1311ba7d-2788-4573-b551-779e89dddb95)
+
+
 
 
 
